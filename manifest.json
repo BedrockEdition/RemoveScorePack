@@ -4,7 +4,7 @@
 		"description": "[PATCH] Remove score of scoreboard",
 		"name": "RemoveScorePack",
 		"uuid": "e209ae42-33cf-4a97-9683-b65fe06bb4fc",
-		"version": [0, 0, 1],
+		"version": [1, 0, 0],
 		"min_engine_version": [1, 7, 0]
 	},
 	"modules": [
@@ -12,7 +12,7 @@
 			"description": "Remove score of scoreboard",
 			"type": "resources",
 			"uuid": "43e00cb8-cc75-46e4-b3dc-ad8d953a15ab",
-			"version": [0, 0, 1]
+			"version": [1, 0, 0]
 		}
 	]
 }
